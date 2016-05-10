@@ -12,5 +12,5 @@ print "server: $server<br>";
 print "username: $username<br>";
 print "password: $password<br>";
 print "db: $db<br>";
-print "encryption salt: $encryptionSalt"
+print "encryption salt: $encryptionSalt";
 ?>
