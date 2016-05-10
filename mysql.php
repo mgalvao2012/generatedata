@@ -8,8 +8,8 @@ $db = substr($url["path"], 1);
 
 $conn = new mysqli($server, $username, $password, $db);
 
-print "server: $server \n";
-print "username: $username \n";
-print "password: $password \n";
-print "db: $db \n";
+print "server: $server <br>";
+print "username: $username <br>";
+print "password: $password <br>";
+print "db: $db <br>";
 ?>
