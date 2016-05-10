@@ -10,5 +10,5 @@ $dbName         = 'heroku_e3b9bcbbb1baaf3';
 $dbUsername     = 'b24b0c2a665185';
 $dbPassword     = 'c61ad97e';
 $dbTablePrefix  = 'gd_';
-$encryptionSalt = 'ABC'; // any 3 A-Z chars
+$encryptionSalt = ''; // any 3 A-Z chars
 $apiEnabled     = false;
